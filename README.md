@@ -9,8 +9,7 @@ Walkthrough of conducting a sentiment analysis on Nvidia stock against 1800 arti
 5. [Usage](#usage)
 6. [Visualizations](#visualizations)
 7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact Information](#contact-information)
+8. [Contact Information](#contact-information)
 
 ## Introduction
 In the rapidly evolving world of financial markets, understanding the sentiment of a stock is pivotal. Our project is a data-driven approach to dissect the sentiment of Nvidia's stocks by leveraging state-of-the-art web scraping, natural language processing, and data visualization. By going through into the nexus between public sentiment and stock performance, this endeavor provides valuable insights for investors, traders, analysts, and researchers.
@@ -35,9 +34,9 @@ In the rapidly evolving world of financial markets, understanding the sentiment 
 - matplotlib
 
 ## Installation
-\```bash
+```bash
 !pip install GoogleNews fake-useragent newspaper3k pandas requests openbb textblob matplotlib
-\```
+```
 
 ## Usage
 The complete guide in the blog walks you through each step of the process, including:
@@ -51,7 +50,7 @@ The complete guide in the blog walks you through each step of the process, inclu
 - **Sentiment Polarity over Time**: Trace how the polarity of news sentiment changes.
 - **Nvidia Closing Price Over Time**: Analyze Nvidia's closing price in relation to sentiment.
 
-## Contributing <a name="Contributing"></a>
+## Contributing
 We welcome contributions to this project. To contribute:
 
 1. Fork the project.
@@ -62,6 +61,6 @@ We welcome contributions to this project. To contribute:
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Notes <a name="notes"></a>
+## Contact Information
 For any questions or inquiries, please contact support@pyfi.com - Subject: Github Repo Q, Sentiment-Analysis-for-Nvidia-Stock.
 For a full article walkthrough please visit > (https://www.pyfi.com/blog) < where you'll also be able to pick up a complimentary copy of the complete, Volume I text of our Machine Learning Edge Blueprint, a $49 value. This text will walk you through everything you need to get started coding Python for Finance
