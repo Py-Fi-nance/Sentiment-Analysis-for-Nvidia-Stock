@@ -1,6 +1,13 @@
 # Sentiment-Analysis-for-Nvidia-Stock
 Walkthrough of conducting a sentiment analysis on Nvidia stock against 1800 articles scraped through Google API, built with Python code. 
 
+![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[![Forks](https://img.shields.io/github/forks/Py-Fi-nance/Sentiment-Analysis-for-Nvidia-Stock)](https://github.com/Py-Fi-nance/Sentiment-Analysis-for-Nvidia-Stock/network)
+[![Stars](https://img.shields.io/github/stars/Py-Fi-nance/Sentiment-Analysis-for-Nvidia-Stock)](https://github.com/Py-Fi-nance/Sentiment-Analysis-for-Nvidia-Stock/stargazers)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
@@ -59,8 +66,8 @@ We welcome contributions to this project. To contribute:
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contact Information
 For any questions or inquiries, please contact support@pyfi.com - Subject: Github Repo Q, Sentiment-Analysis-for-Nvidia-Stock.
 For a full article walkthrough please visit > https://www.pyfi.com/blog/how-to-perform-sentiment-analysis-in-python < where you'll also be able to pick up a complimentary copy of the complete, Volume I text of our Machine Learning Edge Blueprint, a $49 value. This text will walk you through everything you need to get started coding Python for Finance
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/company/pyfi/)
