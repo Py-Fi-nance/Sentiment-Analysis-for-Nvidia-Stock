@@ -69,5 +69,5 @@ We welcome contributions to this project. To contribute:
 
 ## Contact Information
 For any questions or inquiries, please contact support@pyfi.com - Subject: Github Repo Q, Sentiment-Analysis-for-Nvidia-Stock.
-For a full article walkthrough please visit > https://www.pyfi.com/blog/how-to-perform-sentiment-analysis-in-python < and learn more about PyFi's award winning Python for Finance courses which have been trusted by the top financial institutions in the United States and Canada multiple years running here >> https://go.pyfi.com/pyfi-courses << 
+For a full article walkthrough please visit > https://www.pyfi.com/blog/how-to-perform-sentiment-analysis-in-python < and learn more about PyFi's award winning Python for Finance courses which have been trusted by the top financial institutions in the United States and Canada multiple years running here >> https://www.pyfi.com << 
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/company/pyfi/)
